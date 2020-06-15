@@ -1,0 +1,5 @@
+C:\Users\hmeri\Desktop\LOH\Insurtech Database Manager\obj\Debug\netcoreapp3.1\Insurtech Database Manager.csprojAssemblyReference.cache
+C:\Users\hmeri\Desktop\LOH\Insurtech Database Manager\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hmeri\Desktop\LOH\Insurtech Database Manager\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hmeri\Desktop\LOH\Insurtech Database Manager\obj\Debug\netcoreapp3.1\Insurtech Database Manager_MarkupCompile.cache
+C:\Users\hmeri\Desktop\LOH\Insurtech Database Manager\obj\Debug\netcoreapp3.1\Insurtech Database Manager_MarkupCompile.lref
